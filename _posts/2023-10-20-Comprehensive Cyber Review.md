@@ -8,7 +8,7 @@ pin: true
 This high-level guide consists of 11 distinct cybersecurity domains that are widely prevalent in general cyber practices. Together, these domains create a comprehensive framework for comprehending the various facets of cybersecurity. 
 
 > <details><summary>Source: Henry Jiang's "Cybersecurity Domain Map"</summary><img src="/assets/cyber_domains_2021.png"></details>
-
+ 
 ## Cybersecurity Domains
 
 ### 1. **Application Security**: 
