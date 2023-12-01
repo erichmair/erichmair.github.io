@@ -18,19 +18,18 @@ order: 3
 
 ### GIAC
 
-![GIAC GCIH certification](https://erichmair.io/assets/certifications/giac-gcih.png "GIAC GCIH certification") 
-
-
-
-
-
-
-
-
-
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3644febe-24aa-4f88-8f17-cb35136e1ccd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4418e9df-d94e-43a7-bd31-1718d1733b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="194996c3-1499-45d7-b9b6-36d52336ac90" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+## CompTIA
 
 
+## (ISC)²
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="31744853-fde6-42a2-b459-b2f861720421" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8de086c4-2d90-481a-8502-7c7fc428713e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 | Name | PDF | Organization | Issued | Expired | Credential ID |
@@ -55,21 +54,13 @@ CompTIA: PenTest+; Cybersecurity Analyst+ (CySA+); Security+; Network+; Project+
 
 
 
-<br>
 
-**🔹SANS Technology Institute** ([Cyber Workforce Academy](https://www.sans.org/scholarship-academies/cyber-workforce-academy-maryland/))
-
-| Course | Name | Certification | Completed |
-|--- | --- | --- | --- |
-[SEC 504](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling/) |Hacker Tools, Techniques, and Incident Handling | [GCIH](https://www.giac.org/certifications/certified-incident-handler-gcih/) | Expected: June 2023 |
-[SEC 401](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/) | Security Essentials: Network, Endpoint, and CloudSecurity | [GSEC](https://www.giac.org/certifications/security-essentials-gsec/) | 5-6-23 | 
-[SEC 275](https://www.sans.org/cyber-security-courses/foundations/) | Foundations: Computers, Technology, & SecurityFoundations | [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact) | 3-5-23 |
 
 <br>
 
 **🔹Certifications**
 
-
+![GIAC GCIH certification](https://erichmair.io/assets/certifications/giac-gcih.png "GIAC GCIH certification") 
 
 <br>
 
