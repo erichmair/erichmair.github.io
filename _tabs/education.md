@@ -16,7 +16,10 @@ order: 3
 
 ## **Certifications**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3644febe-24aa-4f88-8f17-cb35136e1ccd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3644febe-24aa-4f88-8f17-cb35136e1ccd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 
 | Name | PDF | Organization | Issued | Expired | Credential ID |
 |--- | --- | --- | --- | --- | --- |
