@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa-envelope
+icon: fa-solid fa-address-book
 order: 4
 ---
 
