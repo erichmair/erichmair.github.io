@@ -36,6 +36,32 @@ order: 3
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="31744853-fde6-42a2-b459-b2f861720421" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8de086c4-2d90-481a-8502-7c7fc428713e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
+## GIAC
+
+<table class="giac certifications">
+  <tr>
+    <td>GIAC GCIH</td>
+    <td>
+       <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3644febe-24aa-4f88-8f17-cb35136e1ccd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+    </td>
+  </tr>
+  <tr>
+    <td>GIAC GSEC</td>
+    <td>
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4418e9df-d94e-43a7-bd31-1718d1733b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+    </td>
+  </tr>
+  <tr>
+    <td>GIAC GFACT</td>
+    <td>
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="194996c3-1499-45d7-b9b6-36d52336ac90" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+    </td>
+  </tr>
+</table>
+
+    
+
+
 <table class="speaking-engagements">
   <tr>
     <td>Apr 13, 2019</td>
