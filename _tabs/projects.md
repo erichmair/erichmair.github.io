@@ -4,10 +4,13 @@ icon: fa-solid fa-diagram-project
 order: 2
 ---
 
-## Cloud InfoSec Projects
+## ☁ **Cloud InfoSec Projects**
+1. #### **[Summary - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)](https://google.com)**
 
-1. ### **[Summary - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)](https://google.com)**
-2. ### **[Azure SOC Environment Setup](https://google.com)**
+
+# ☁ **Cloud InfoSec Projects**
+1. #### **[Summary - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)](https://google.com)**
+2. #### **[Azure SOC Environment Setup](https://google.com)**
    * [Lab 1: Azure Account Creation](htttps://google.com)
    * Lab 2: Configure Microsoft SQL Server
    * Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)
