@@ -1,8 +1,18 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-envelope
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Email me!
+
+* [erich@erichmair.io](mailto:erich@erichmair.io)
+
+---
+## Or, find me other places
+
+* [LinkedIn](https://linkedin.com/in/erich-mair)
+* [GitHub](https://github.com/erichmair)
+* [Credly](https://www.credly.com/users/erichmair/badges)
+* [TryHackMe](https://tryhackme.com/p/ermair)
+* [FilmFreeway](https://filmfreeway.com/erich-mair)
