@@ -8,7 +8,7 @@ order: 2
 <table class="table-name">
   <tr>
     <td>
-      <a href="https://google.com">Azure Honeynet + SOC <br>(w/ Real-World Cyber Attacks)</a>
+      <a href="https://google.com">Azure Honeynet + SOC (w/ <br>Real-World Cyber Attacks)</a>
     </td>
     <td></td>
   </tr>
