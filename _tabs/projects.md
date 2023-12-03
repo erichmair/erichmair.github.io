@@ -25,7 +25,7 @@ order: 2
    * Lab 14: Understanding and Triggering Sentinel Alerts
    * Lab 15: Exposing our Environment to Malicious Traffic #1 (‘Before’ Hardening)
    * Lab 16: Perform Incident Handling (Utilize NIST 800-61)
-5. **[Security Posture Hardening, Secure Cloud Configuration, Regulatory Compliance)](https://google.com)**
+5. **[Security Posture Hardening, Secure Cloud Configuration, Regulatory Compliance](https://google.com)**
    * Lab 17: Regulatory Compliance (Enable NIST 800-53) 
    * Lab 18: Implement NIST 800-53: SC-7 (“Boundary Protection”)
    * Lab 19: Exposing our Environment to Malicious Traffic #2 (‘After’ Hardening)
@@ -34,55 +34,55 @@ order: 2
 <table class="table-name">
   <tr>
     <td>
-      <a href="https://google.com">Project 1</a>
+      <a href="https://google.com">Summary - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)</a>
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Project 2</a>
+      <a href="https://google.com">Azure SOC Environment Setup</a>
     </td>
     <td> 
       <a href="https://google.com">Lab 1: Azure Account Creation</a><br>
       <a href="https://google.com">Lab 2: Configure Microsoft SQL Server</a><br>
       <a href="https://google.com">Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)</a><br>
-      <a href="https://google.com">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>      
+      <a href="https://google.com">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Project 3</a>
+      <a href="https://google.com">Logging and Monitoring</a>
     </td>
     <td> 
-      <a href="https://google.com">Lab 5: </a><br>
-      <a href="https://google.com">Lab 6: </a><br>
-      <a href="https://google.com">Lab 7: </a><br>
-      <a href="https://google.com">Lab 8: </a><br>
-      <a href="https://google.com">Lab 9: </a><br>
-      <a href="https://google.com">Lab 10: </a>      
+      <a href="https://google.com">Lab 5: Setup of SIEM & Log Repository</a><br>
+      <a href="https://google.com">Lab 6: Setup of Microsoft Defender for Cloud Logging</a><br>
+      <a href="https://google.com">Lab 7:Setup of VM & NSG Logging </a><br>
+      <a href="https://google.com">Lab 8: Setup of Tenant-Level Logging</a><br>
+      <a href="https://google.com">Lab 9: Setup of Subscription-Level Logging</a><br>
+      <a href="https://google.com">Lab 10: Setup of Resource-Level Logging</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Project 4</a>
+      <a href="https://google.com">Microsoft Sentinel SIEM (Setup + Testing)</a>
     </td>
     <td> 
-      <a href="https://google.com">Lab 11: </a><br>
-      <a href="https://google.com">Lab 12: </a><br>
-      <a href="https://google.com">Lab 13: </a><br>
-      <a href="https://google.com">Lab 14: </a><br>
-      <a href="https://google.com">Lab 15: </a><br>
-      <a href="https://google.com">Lab 16: </a>      
+      <a href="https://google.com">Lab 11: Construction of Sentinel Attack Maps</a><br>
+      <a href="https://google.com">Lab 12: Manual Alert Creation</a><br>
+      <a href="https://google.com">Lab 13: Automatic Alert Import</a><br>
+      <a href="https://google.com">Lab 14: Understanding and Triggering Sentinel Alerts</a><br>
+      <a href="https://google.com">Lab 15: Exposing our Environment to Malicious Traffic #1 (‘Before’ Hardening)</a><br>
+      <a href="https://google.com">Lab 16: Perform Incident Handling (Utilize NIST 800-61)</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Project 5</a>
+      <a href="https://google.com">Security Posture Hardening, Secure Cloud Configuration, Regulatory Compliance</a>
     </td>
     <td> 
-      <a href="https://google.com">Lab 17: </a><br>
-      <a href="https://google.com">Lab 18: </a><br>
-      <a href="https://google.com">Lab 19: </a>      
+      <a href="https://google.com">Lab 17: Regulatory Compliance (Enable NIST 800-53)</a><br>
+      <a href="https://google.com">Lab 18: Implement NIST 800-53: SC-7 (“Boundary Protection”)</a><br>
+      <a href="https://google.com">Lab 19: Exposing our Environment to Malicious Traffic #2 (‘After’ Hardening)</a>
     </td>
   </tr>
 </table>
