@@ -8,7 +8,7 @@ order: 2
 <table class="table-name">
   <tr>
     <td>
-      <a href="https://google.com">Summary - Azure Honeynet + SOC <br>(w/ Real-World Cyber Attacks)</a>
+      <a href="https://google.com">Azure Honeynet + SOC <br>(w/ Real-World Cyber Attacks)</a>
     </td>
     <td></td>
   </tr>
@@ -19,7 +19,7 @@ order: 2
     <td> 
       <a href="https://google.com">Lab 1: Azure Account Creation</a><br>
       <a href="https://google.com">Lab 2: Configure Microsoft SQL Server</a><br>
-      <a href="https://google.com">Lab 3: Simulate an External Attacker<br> (Failed Authentication & Log Observation)</a><br>
+      <a href="https://google.com">Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)</a><br>
       <a href="https://google.com">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>
     </td>
   </tr>
