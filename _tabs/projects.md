@@ -30,4 +30,28 @@ order: 2
    * Lab 18: Implement NIST 800-53: SC-7 (“Boundary Protection”)
    * Lab 19: Exposing our Environment to Malicious Traffic #2 (‘After’ Hardening)
 
+## ☁ **Cloud InfoSec Projects**
+<table class="table-name">
+  <tr>
+    <td>Azure SOC Environment Setup</td>
+    <td> 
+      <a href="https://google.com">Lab 1: Azure Account Creation</a><br>
+      <a href="https://google.com">Lab 2: Configure Microsoft SQL Server</a><br>
+      <a href="https://google.com">Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)</a><br>
+      <a href="https://google.com">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>      
+    </td>
+  </tr>
+  <tr>
+    <td>Logging and Monitoring</td>
+    <td>
+      <a href="https://google.com">Lab 5: </a>
+      <a href="https://google.com">Lab 6: </a>
+      <a href="https://google.com">Lab 7: </a>
+      <a href="https://google.com">Lab 8: </a> 
+    </td>
+    <td>column 3</td>
+  </tr>
+</table>
+
+
 ## 🎨 **Creative Projects**
