@@ -34,7 +34,8 @@ order: 2
 <table class="table-name">
   <tr>
     <td>
-      <a href="https://google.com">Summary - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)</a>
+      <a href="https://google.com">Summary - Azure Honeynet + SOC</a><br>
+      <a href="https://google.com">(w/ Real-World Cyber Attacks)</a>
     </td>
     <td></td>
   </tr>
@@ -64,7 +65,8 @@ order: 2
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Microsoft Sentinel SIEM (Setup + Testing)</a>
+      <a href="https://google.com">Microsoft Sentinel SIEM</a><br>
+      <a href="https://google.com">(Setup + Testing)</a>
     </td>
     <td> 
       <a href="https://google.com">Lab 11: Construction of Sentinel Attack Maps</a><br>
@@ -77,7 +79,9 @@ order: 2
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Security Posture Hardening, Secure Cloud Configuration, Regulatory Compliance</a>
+      <a href="https://google.com">Security Posture Hardening,</a><br>
+      <a href="https://google.com">Secure Cloud Configuration,</a><br>
+      <a href="https://google.com">Regulatory Compliance</a><br>
     </td>
     <td> 
       <a href="https://google.com">Lab 17: Regulatory Compliance (Enable NIST 800-53)</a><br>
