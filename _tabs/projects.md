@@ -33,7 +33,15 @@ order: 2
 ## ☁ **Cloud InfoSec Projects**
 <table class="table-name">
   <tr>
-    <td>Azure SOC Environment Setup</td>
+    <td>
+      <a href="https://google.com">Project 1</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://google.com">Project 2</a>
+    </td>
     <td> 
       <a href="https://google.com">Lab 1: Azure Account Creation</a><br>
       <a href="https://google.com">Lab 2: Configure Microsoft SQL Server</a><br>
@@ -42,14 +50,40 @@ order: 2
     </td>
   </tr>
   <tr>
-    <td>Logging and Monitoring</td>
     <td>
-      <a href="https://google.com">Lab 5: </a>
-      <a href="https://google.com">Lab 6: </a>
-      <a href="https://google.com">Lab 7: </a>
-      <a href="https://google.com">Lab 8: </a> 
+      <a href="https://google.com">Project 3</a>
     </td>
-    <td>column 3</td>
+    <td> 
+      <a href="https://google.com">Lab 5: </a><br>
+      <a href="https://google.com">Lab 6: </a><br>
+      <a href="https://google.com">Lab 7: </a><br>
+      <a href="https://google.com">Lab 8: </a><br>
+      <a href="https://google.com">Lab 9: </a><br>
+      <a href="https://google.com">Lab 10: </a>      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://google.com">Project 4</a>
+    </td>
+    <td> 
+      <a href="https://google.com">Lab 11: </a><br>
+      <a href="https://google.com">Lab 12: </a><br>
+      <a href="https://google.com">Lab 13: </a><br>
+      <a href="https://google.com">Lab 14: </a><br>
+      <a href="https://google.com">Lab 15: </a><br>
+      <a href="https://google.com">Lab 16: </a>      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://google.com">Project 5</a>
+    </td>
+    <td> 
+      <a href="https://google.com">Lab 17: </a><br>
+      <a href="https://google.com">Lab 18: </a><br>
+      <a href="https://google.com">Lab 19: </a>      
+    </td>
   </tr>
 </table>
 
