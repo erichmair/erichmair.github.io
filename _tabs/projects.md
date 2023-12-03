@@ -34,8 +34,7 @@ order: 2
 <table class="table-name">
   <tr>
     <td>
-      <a href="https://google.com">Summary - Azure Honeynet + SOC</a><br>
-      <a href="https://google.com">(w/ Real-World Cyber Attacks)</a>
+      <a href="https://google.com">Summary - Azure Honeynet + SOC <br>(w/ Real-World Cyber Attacks)</a>
     </td>
     <td></td>
   </tr>
