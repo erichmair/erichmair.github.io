@@ -14,7 +14,7 @@ order: 2
   </tr>
   <tr>
     <td>
-      <a href="https://google.com">Azure SOC Environment Setup</a>
+      <a href="https://google.com">Azure SOC Environment <br> Setup</a>
     </td>
     <td> 
       <a href="https://google.com">Lab 1: Azure Account Creation</a><br>
