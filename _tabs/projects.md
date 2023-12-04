@@ -61,5 +61,8 @@ order: 2
   </tr>
 </table>
 
+<br>
+
+----
 
 ## 🎨 **Creative Projects**
