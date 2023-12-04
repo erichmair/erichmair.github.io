@@ -22,5 +22,7 @@ tags: [Project, Cloud InfoSec Projects]
   * Create the new admin user account
   * Log into it once and update the password
 
+----
 
+## **Task 1**: Create Azure Environment and Virtual Machines (VMs)
     
