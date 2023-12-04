@@ -1,6 +1,6 @@
 ---
 title: “Lab 12: Manual Alert Creation”
-categories: [Projects, Logging and Monitoring] 
+categories: [Projects, Microsoft Sentinel SIEM (Setup + Testing)] 
 tags: [Project, Cloud InfoSec Projects]
 ---
 
