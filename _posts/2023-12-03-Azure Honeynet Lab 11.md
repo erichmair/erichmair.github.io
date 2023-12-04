@@ -1,6 +1,6 @@
 ---
 title: “Lab 11: Construction of Sentinel Attack Maps”
-categories: [Projects, Logging and Monitoring] 
+categories: [Projects, Microsoft Sentinel SIEM (Setup + Testing)] 
 tags: [Project, Cloud InfoSec Projects]
 ---
 
