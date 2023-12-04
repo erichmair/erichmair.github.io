@@ -12,7 +12,10 @@ order: 3
 **Western Governors University** | [B.S. Cybersecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) | June 2023 |
 **Towson University** | B.S. Physical Education | June 2014 |
 
+<br>
+
 ----
+
 ## 📜 **Certifications**
 
 ### GIAC
