@@ -95,7 +95,7 @@ Following these measures, I proceeded to conduct another 24-hour observation for
 
 ## Architecture ‘After’ Hardening the Environment
 
-![After Hardening Architecture](/assets/AzureSOCHoneynet-After.png "After Hardening Architecture") 
+![After Hardening Architecture](/assets/AzureSOCHoneynet-After3.png "After Hardening Architecture") 
 
 ### Metrics ‘After’ Hardening
 
