@@ -38,7 +38,7 @@ After the implementation of security controls, another 24-hour metric measuremen
 * [NIST SP 800-53 r5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) → for security controls
 * [NIST SP 800-61 r2](https://www.nist.gov/privacy-framework/nist-sp-800-61) → for incident handling guidance
 
-<br />
+----
 
 ## Architecture ‘Before’ Hardening the Environment
 
@@ -77,7 +77,7 @@ The following table shows the 24-hour metrics generated before hardening the env
 
 ![Attack Map - MSSQL (Before)](/assets/map_mssql-before.png "Attack Map - MSSQL (Before)") 
 
-<br />
+----
 
 ## Hardening the Environment
 
@@ -89,7 +89,7 @@ Now that I've gathered 'Before' metrics for my insecure lab environment, I proce
 
 Following these measures, I proceeded to conduct another 24-hour observation for this 'After' environment.
 
-<br />
+----
 
 ## Architecture ‘After’ Hardening the Environment
 
@@ -128,7 +128,7 @@ The following table shows the 24-hour metrics generated after hardening the envi
 
 ![Attack Map - MSSQL (After)](/assets/map_mssql-after.png "Attack Map - MSSQL (After)") 
 
-<br />
+----
 
 ## Comparing the 'Before' and 'After' Metrics
 
@@ -140,7 +140,7 @@ The following table shows the 24-hour metrics generated after hardening the envi
 | **SecurityIncident** (Sentinel Incidents):           | 152 | 0 | -100.00% | 
 | **NSG Inbound Malicious Flows Allowed**:             | 2,385 | 0 | -100.00% |
 
-<br />
+----
 
 ## Conclusion
 
