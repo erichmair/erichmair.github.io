@@ -12,7 +12,7 @@ order: 4
 
 ---
 
-## 👉 Or, find me other places
+## 🧭 Or, find me other places
 
 * [LinkedIn](https://linkedin.com/in/erich-mair)
 * [GitHub](https://github.com/erichmair)
