@@ -3,9 +3,11 @@ title: Azure Honeynet + SOC (w/ Real-World Cyber Attacks)
 categories: [Projects, Cloud InfoSec Projects]
 tags: [Projects, Cloud InfoSec Projects]
 pin: true
+image:
+    path: /assets/AzureSOCHoneynet4.png
 ---
 
-![Azure Honeynet + SOC](/assets/AzureSOCHoneynet.png "Azure Honeynet + SOC") 
+![Azure Honeynet + SOC](/assets/AzureSOCHoneynet4.png "Azure Honeynet + SOC") 
 
 ## Introduction and Purpose
 
