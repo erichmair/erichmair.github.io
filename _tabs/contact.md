@@ -4,11 +4,14 @@ icon: fa-solid fa-address-book
 order: 4
 ---
 
-## 📧 ✉️ Email me!
+## ✉️ Email me!
 
 * [erich@erichmair.io](mailto:erich@erichmair.io)
-✉️ 
+
+<br> 
+
 ---
+
 ## 👉 Or, find me other places
 
 * [LinkedIn](https://linkedin.com/in/erich-mair)
