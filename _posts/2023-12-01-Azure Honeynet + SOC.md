@@ -7,8 +7,6 @@ image:
     path: /assets/AzureSOCHoneynet4.png
 ---
 
-![Azure Honeynet + SOC](/assets/AzureSOCHoneynet4.png "Azure Honeynet + SOC") 
-
 ## Introduction and Purpose
 
 In this project, I constructed a small-scale honeynet and Security Operations Center (SOC) within Azure. The project aimed to compare metrics 'Before' and 'After' hardening an insecure lab environment. To obtain these metrics, log sources from various resources were ingested into my log repository (Log Analytics Workspace). These log sources were then utilized by my SIEM (Microsoft Sentinel) to build attack maps, trigger alerts, and create incidents. Microsoft Sentinel measured the metrics of the insecure environment over a 24-hour period. Following this phase, security controls were implemented to harden this virtual lab environment. The metrics analyzed were:
@@ -44,7 +42,7 @@ After the implementation of security controls, another 24-hour metric measuremen
 
 ## Architecture ‘Before’ Hardening the Environment
 
-![Before Hardening Architecture](/assets/AzureSOCHoneynet-Before.png "Before Hardening Architecture") 
+![Before Hardening Architecture](/assets/AzureSOCHoneynet-Before3.png "Before Hardening Architecture") 
 
 To gather metrics for the insecure environment, all resources were initially deployed with their endpoints exposed to the public internet to encourage malicious traffic. Additionally, I disabled the built-in VM firewalls, and configured the VMs’ Network Security Groups (NSGs) as open, allowing unrestricted traffic. Following the configuration of log collection and the establishment of security metrics, I conducted a 24-hour observation of the ‘Before’ environment.
 
