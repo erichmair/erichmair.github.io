@@ -17,10 +17,10 @@ order: 2
       <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/">Azure SOC Environment <br> Setup</a>
     </td>
     <td> 
-      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-1-create-azure-account-and-lab-environment/">Lab 1: Azure Account Creation</a><br>
-      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-2-configure-microsoft-sql-server/">Lab 2: Configure Microsoft SQL Server</a><br>
-      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-3-simulate-an-external-attacker-failed-authentication--log-observation/">Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)</a><br>
-      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-4-azure-active-directory-users-groups-and-access-management/">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>
+      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-1-create-azure-account-and-lab-environment">Lab 1: Azure Account Creation</a><br>
+      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-2-configure-microsoft-sql-server">Lab 2: Configure Microsoft SQL Server</a><br>
+      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-3-simulate-an-external-attacker-failed-authentication--log-observation">Lab 3: Simulate an External Attacker (Failed Authentication & Log Observation)</a><br>
+      <a href="https://erichmair.io/posts/Project-Azure-SOC-Environment-Setup/#lab-4-azure-active-directory-users-groups-and-access-management">Lab 4: Azure Active Directory (Users, Groups, and Access Management)</a>
     </td>
   </tr>
   <tr>
@@ -28,12 +28,12 @@ order: 2
       <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/">Logging and Monitoring</a>
     </td>
     <td> 
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-5-setup-of-siem--log-repository/">Lab 5: Setup of SIEM & Log Repository</a><br>
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-6-setup-of-microsoft-defender-for-cloud-logging/">Lab 6: Setup of Microsoft Defender for Cloud Logging</a><br>
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-7-setup-of-vm--nsg-logging/">Lab 7:Setup of VM & NSG Logging </a><br>
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-8-setup-of-tenant-level-logging/">Lab 8: Setup of Tenant-Level Logging</a><br>
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-9-setup-of-subscription-level-logging/">Lab 9: Setup of Subscription-Level Logging</a><br>
-      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-10-setup-of-resource-level-logging/">Lab 10: Setup of Resource-Level Logging</a>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-5-setup-of-siem--log-repository">Lab 5: Setup of SIEM & Log Repository</a><br>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-6-setup-of-microsoft-defender-for-cloud-logging">Lab 6: Setup of Microsoft Defender for Cloud Logging</a><br>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-7-setup-of-vm--nsg-logging">Lab 7:Setup of VM & NSG Logging </a><br>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-8-setup-of-tenant-level-logging">Lab 8: Setup of Tenant-Level Logging</a><br>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-9-setup-of-subscription-level-logging">Lab 9: Setup of Subscription-Level Logging</a><br>
+      <a href="https://erichmair.io/posts/Project-Logging-and-Monitoring/#lab-10-setup-of-resource-level-logging">Lab 10: Setup of Resource-Level Logging</a>
     </td>
   </tr>
   <tr>
@@ -41,12 +41,12 @@ order: 2
       <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/">Microsoft Sentinel SIEM <br>(Setup + Testing)</a>
     </td>
     <td> 
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-11-construction-of-sentinel-attack-maps/">Lab 11: Construction of Sentinel Attack Maps</a><br>
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-12-manual-alert-creation/">Lab 12: Manual Alert Creation</a><br>
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-13-automatic-alert-import/">Lab 13: Automatic Alert Import</a><br>
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-14-understanding-and-triggering-sentinel-alerts/">Lab 14: Understanding and Triggering Sentinel Alerts</a><br>
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-15-expose-environment-to-malicious-traffic-1-before-hardening/">Lab 15: Expose Environment to Malicious Traffic #1 (‘Before’ Hardening)</a><br>
-      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-16-perform-incident-handling-utilize-nist-800-61/">Lab 16: Perform Incident Handling (Utilize NIST 800-61)</a>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-11-construction-of-sentinel-attack-maps">Lab 11: Construction of Sentinel Attack Maps</a><br>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-12-manual-alert-creation">Lab 12: Manual Alert Creation</a><br>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-13-automatic-alert-import">Lab 13: Automatic Alert Import</a><br>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-14-understanding-and-triggering-sentinel-alerts">Lab 14: Understanding and Triggering Sentinel Alerts</a><br>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-15-expose-environment-to-malicious-traffic-1-before-hardening">Lab 15: Expose Environment to Malicious Traffic #1 (‘Before’ Hardening)</a><br>
+      <a href="https://erichmair.io/posts/Project-Microsoft-Sentinel-SIEM-(Setup-+-Testing)/#lab-16-perform-incident-handling-utilize-nist-800-61">Lab 16: Perform Incident Handling (Utilize NIST 800-61)</a>
     </td>
   </tr>
   <tr>
