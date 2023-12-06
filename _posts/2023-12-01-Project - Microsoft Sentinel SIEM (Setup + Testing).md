@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Sentinel SIEM (Setup + Testing)"
+title: "Project - Microsoft Sentinel SIEM (Setup + Testing)"
 categories: [Projects, Cloud InfoSec Projects]
 tags: [Projects]
 ---
