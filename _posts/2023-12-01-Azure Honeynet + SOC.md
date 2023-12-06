@@ -1,5 +1,5 @@
 ---
-title: Azure Honeynet + SOC (w/ Real-World Cyber Attacks)
+title: "Project - Azure Honeynet + SOC (w/ Real-World Cyber Attacks)"
 categories: [Projects, Cloud InfoSec Projects]
 tags: [Projects]
 pin: true
