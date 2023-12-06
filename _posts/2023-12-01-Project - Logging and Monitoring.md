@@ -6,7 +6,7 @@ tags: [Projects]
 > Below you'll find the notes for performing each lab in this project. Select the dropdowns to reveal/hide these PDF notes.
 {: .prompt-tip }
 
-## Lab 1: Lab 5: Setup of SIEM & Log Repository  
+## Lab 5: Setup of SIEM & Log Repository  
 
 <details open>
   <summary>
