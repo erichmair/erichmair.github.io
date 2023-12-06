@@ -14,7 +14,7 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab1.pdf">
+    <img src="/assets/lab%20notes/lab1.pdf" alt="Lab 1 notes">
   </blockquote>
 </details>
 
@@ -25,7 +25,7 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab2.pdf">
+    <img src="/assets/lab%20notes/lab2.pdf" alt="Lab 2 notes">
   </blockquote>
 </details>
 
@@ -36,7 +36,7 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab3.pdf">
+    <img src="/assets/lab%20notes/lab3.pdf" alt="Lab 3 notes">
   </blockquote>
 </details>
 
@@ -47,6 +47,6 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab4.pdf">
+    <img src="/assets/lab%20notes/lab4.pdf" alt="Lab 4 notes">
   </blockquote>
 </details>
