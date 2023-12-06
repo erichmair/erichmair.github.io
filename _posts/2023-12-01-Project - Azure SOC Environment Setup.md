@@ -3,28 +3,6 @@ title: "Project - Azure SOC Environment Setup"
 categories: [Projects, Cloud InfoSec Projects]
 tags: [Projects]
 ---
-
-## 0
-
-<object data="/assets/lab%20notes/lab1.pdf" type="application/pdf" width="100%" height="800px"> 
-  <p>It appears you don't have a PDF plugin for this browser.
-   No biggie... you can <a href="/assets/lab%20notes/lab1.pdf">click here to
-  download the PDF file!</a></p>  
-</object>
-
-## 1
-
-<embed src="/assets/lab%20notes/lab1.pdf" type="application/pdf"/>
-
-## 3
-
-<embed src="/assets/lab%20notes/lab1.pdf" width="500" height="1000" type="application/pdf"/>
-
-## 4
-
-<embed src="/assets/lab%20notes/lab1.pdf" width="500" height="500" type="application/pdf"/>
-
-
 > Below you'll find the notes for performing each lab in this project. Select the dropdowns to reveal/hide these PDF notes.
 {: .prompt-tip }
 
@@ -35,7 +13,10 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab1.pdf" alt="Lab 1 notes">
+    <object data="/assets/lab%20notes/lab1.pdf" type="application/pdf" width="100%" height="600px"> 
+      <p>It appears you don't have a PDF plugin for this browser.
+       No biggie... you can <a href="/assets/lab%20notes/lab1.pdf">click here to download the PDF file!</a></p>  
+    </object>
   </blockquote>
 </details>
 
@@ -46,7 +27,10 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab2.pdf" alt="Lab 2 notes">
+    <object data="/assets/lab%20notes/lab2.pdf" type="application/pdf" width="100%" height="600px"> 
+      <p>It appears you don't have a PDF plugin for this browser.
+       No biggie... you can <a href="/assets/lab%20notes/lab2.pdf">click here to download the PDF file!</a></p>  
+    </object>
   </blockquote>
 </details>
 
@@ -57,7 +41,10 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab3.pdf" alt="Lab 3 notes">
+    <object data="/assets/lab%20notes/lab3.pdf" type="application/pdf" width="100%" height="600px"> 
+      <p>It appears you don't have a PDF plugin for this browser.
+       No biggie... you can <a href="/assets/lab%20notes/lab3.pdf">click here to download the PDF file!</a></p>  
+    </object>
   </blockquote>
 </details>
 
@@ -68,6 +55,9 @@ tags: [Projects]
     <strong>Lab notes (CLICK TO EXPAND)</strong>
   </summary>
   <blockquote>
-    <img src="/assets/lab%20notes/lab4.pdf" alt="Lab 4 notes">
+    <object data="/assets/lab%20notes/lab4.pdf" type="application/pdf" width="100%" height="600px"> 
+      <p>It appears you don't have a PDF plugin for this browser.
+       No biggie... you can <a href="/assets/lab%20notes/lab4.pdf">click here to download the PDF file!</a></p>  
+    </object>
   </blockquote>
 </details>
