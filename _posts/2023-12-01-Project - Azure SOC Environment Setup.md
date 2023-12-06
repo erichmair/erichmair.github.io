@@ -1,8 +1,25 @@
---
+---
 title: "Project - Azure SOC Environment Setup"
 categories: [Projects, Cloud InfoSec Projects]
 tags: [Projects]
 ---
+
+## 1
+
+<img src="/assets/lab%20notes/lab1.pdf" alt="Lab 1 notes">
+
+## 2
+
+<embed src="/assets/lab%20notes/lab1.pdf" type="application/pdf"/>
+
+## 3
+
+<embed src="/assets/lab%20notes/lab1.pdf" type="application/pdf"/>
+
+## 4
+
+<img src="/assets/lab%20notes/lab1.pdf" alt="Lab 1 notes" type="application/pdf">
+
 
 > Below you'll find the notes for performing each lab in this project. Select the dropdowns to reveal/hide these PDF notes.
 {: .prompt-tip }
@@ -15,6 +32,7 @@ tags: [Projects]
   </summary>
   <blockquote>
     <img src="/assets/lab%20notes/lab1.pdf" alt="Lab 1 notes">
+    <embed src="/assets/lab%20notes/lab1.pdf" type="application/pdf"/>
   </blockquote>
 </details>
 
