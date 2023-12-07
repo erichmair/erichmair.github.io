@@ -3,7 +3,7 @@ layout: page
 icon: fa-solid fa-diagram-project
 order: 2
 ---
-![projects background](/assets/bg/em-bg9.png) 
+![projects background](/assets/bg/em-bg10.png) 
 
 ## ☁ **Cloud InfoSec Projects**
 <table class="table-name">
