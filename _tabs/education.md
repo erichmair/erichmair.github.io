@@ -2,9 +2,10 @@
 layout: page
 icon: fas fa-graduation-cap
 order: 3
-image:
-    path: /assets/bg/em-bg1.png
 ---
+
+![education background](/assets/bg/em-bg1.png) 
+
 
 ## 🏫 **Schools**
 
