@@ -3,7 +3,7 @@
 icon: fa-solid fa-address-book
 order: 4
 ---
-![education background](/assets/bg/em-bg7.png) 
+![education background](/assets/bg/em-bg8.png) 
 
 ## ✉️ Email me!
 
