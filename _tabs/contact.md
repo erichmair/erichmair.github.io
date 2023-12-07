@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa-solid fa-address-book
-order: 4
+order: 3
 ---
 ![contact background](/assets/bg/em-bg8.png) 
 
