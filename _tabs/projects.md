@@ -75,6 +75,3 @@ In March 2019, I accomplished a life-long dream of completing and premiering an 
 <div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aEjJ4mkrPt0?si=V9KcN17N1i2QROz3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEjJ4mkrPt0?si=V9KcN17N1i2QROz3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
