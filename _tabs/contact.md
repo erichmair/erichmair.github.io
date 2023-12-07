@@ -5,7 +5,7 @@ order: 3
 ---
 ![contact background](/assets/bg/em-bg8.png) 
 
-## ✉️ Email me!
+## ✉️ Email me! 
 
 * [erich@erichmair.io](mailto:erich@erichmair.io)
 
