@@ -4,8 +4,7 @@ icon: fas fa-graduation-cap
 order: 3
 ---
 
-![education background](/assets/bg/em-bg1.png) 
-
+![education background](/assets/bg/em-bg6.png) 
 
 ## 🏫 **Schools**
 
