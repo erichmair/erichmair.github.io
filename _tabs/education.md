@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-graduation-cap
-order: 3
+order: 1
 ---
 ![education background](/assets/bg/em-bg6.png) 
 
