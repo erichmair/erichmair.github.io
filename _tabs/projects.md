@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fa-solid fa-diagram-project
+icon: fa-solid fa-flask
 order: 2
 ---
 ![projects background](/assets/bg/em-bg10.png) 
