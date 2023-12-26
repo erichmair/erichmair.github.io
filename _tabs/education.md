@@ -34,7 +34,7 @@ order: 1
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d3c76aa-376c-461c-9ad8-b1c3c5a15e50" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="86103624-e36c-4384-9ade-03a7f9894367" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
-### (ISC)²
+### ISC2
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="31744853-fde6-42a2-b459-b2f861720421" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8de086c4-2d90-481a-8502-7c7fc428713e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
