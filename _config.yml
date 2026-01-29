@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Erich Mair
-  email: mailto:erich@erichmair.io # change to your email address
+  # email: mailto:erich@erichmair.io # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
@@ -185,10 +185,10 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories] # previously was:  [categories, tags]
   layouts:
     category: category
-    tag: tag
+    tag: # previously was: tag
   permalinks:
-    tag: /tags/:name/
+    tag: #previously was: /tags/:name/
     category: /categories/:name/
